@@ -1,10 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Harnoor Singh Khalsa</h1>
+<h3 align="center">Computer Engineering student at Thapar University with a good academic background.</h3>
 
-Here are some ideas to get you started:
+---
 
 🔭 I’m currently working on: Digital Marketing
+---
 🌱 I’m currently learning: React & Jetson Nano
+---
 📫 How to reach me: sharnoor998@gmail.com
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
