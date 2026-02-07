@@ -95,11 +95,10 @@ const harnoor = {
 
 ## 📊 GitHub Stats
 
-![Harnoor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harnoor001&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harnoor001&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&v=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harnoor001&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harnoor001&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&v=1)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Harnoor001&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Harnoor001&theme=radical&hide_border=true&v=1)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harnoor001&theme=react-dark&hide_border=true)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harnoor001&theme=react-dark&hide_border=true&v=1)
