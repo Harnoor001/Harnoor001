@@ -1,6 +1,6 @@
 <div align="center">
 <h1 style="font-size: 3em;">👨‍💻 HARNOOR SINGH </h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Harsh+Badhan+👋;Computer+Science+Student+🎓;Full-Stack+Developer+💻;TECH+Enthusiast+🤖;Problem+Solver+%7C+DSA+Practitioner+🧩" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Harnoor+Singh+Khalsa+👋;You+can+call+me+Khalsa+Ji+🙏;Computer+Engineering+Student+🎓;Machine+Learning+%26+Data+Science+Enthusiast+🤖;Problem+Solver+%7C+DSA+Practitioner+🧩" alt="Typing SVG" />
 <p align="center">
  <!-- <a href="https://portfolio-badhann.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-FF6600?style=for-the-badge&logo=google-chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/harnoor-singh-3aa56421a/">
