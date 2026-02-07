@@ -37,7 +37,7 @@ const harnoor = {
   currentFocus: "Building real-world ML systems & mastering DSA",
   funFact: "I debug models more than I sleep 😄"
 };
-
+```
 ## 💻 Tech Stack
 
 <div align="center">
