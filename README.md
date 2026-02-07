@@ -45,4 +45,7 @@
 ---
 
 ### ✨ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harnoor001&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Harnoor001&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harnoor001&layout=compact&theme=radical&hide_border=true" />
+</div>
