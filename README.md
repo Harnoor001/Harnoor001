@@ -7,8 +7,9 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
 </a>
 <!-- <a href="https://codolio.com/profile/harshbadhann"><img src="https://img.shields.io/badge/-Codolio-FF6B6B?style=for-the-badge&logo=code&logoColor=white"/></a> -->
-  <a href="https://github.com/harshbadhann2"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
-</p>
+<a href="https://github.com/Harnoor001">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/>
+</a></p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
