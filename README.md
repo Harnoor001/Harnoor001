@@ -95,4 +95,5 @@ const harnoor = {
 
 ## 📊 GitHub Stats
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harnoor001&theme=react-dark&hide_border=true&v=1)
+---![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harnoor001&theme=react-dark&hide_border=true&v=1)
+---
