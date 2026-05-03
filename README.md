@@ -42,7 +42,7 @@
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: *(https://www.linkedin.com/in/harnoor1699/)*
-* 📧 Email: *(Add your email)*
+* 📧 Email: *(sharnoor998@gamil.com)*
 * 🌍 Portfolio: *(Add when ready)*
 
 ---
