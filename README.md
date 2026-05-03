@@ -39,17 +39,9 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Harnoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harnoor001\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harnoor001\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: *([Add your link](https://www.linkedin.com/in/harnoor1699/))*
+* 💼 LinkedIn: *(https://www.linkedin.com/in/harnoor1699/)*
 * 📧 Email: *(Add your email)*
 * 🌍 Portfolio: *(Add when ready)*
 
