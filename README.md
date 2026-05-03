@@ -49,7 +49,7 @@
 
 ## 💡 Quote
 
-> "Build things that matter. Scale things that impact."
+"Build things that matter. Scale things that impact."
 
 ---
 
