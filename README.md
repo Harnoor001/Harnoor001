@@ -43,7 +43,6 @@
 
 * 💼 LinkedIn: *(https://www.linkedin.com/in/harnoor1699/)*
 * 📧 Email: *(sharnoor998@gamil.com)*
-//* 🌍 Portfolio: *(Add when ready)*
 
 ---
 
