@@ -1,0 +1,5 @@
+# daily workflow (fetch_github.py, render_*.py)
+requests==2.32.3
+beautifulsoup4==4.12.3
+# local only, for make_portrait.py:
+#   pip install pillow numpy

@@ -1,27 +1,54 @@
 <div align="center">
 
-# Harnoor Singh Khalsa
+<!-- Every panel is a self-contained animated SVG built by ./scripts.
+     hero / projects / portrait: generated locally when the content changes.
+     neofetch / contributions: regenerated daily by .github/workflows/refresh-profile.yml -->
 
-Computer Engineering student at Thapar Institute of Engineering and Technology, building applied ML systems — from competition-grade model pipelines to AI-assisted robotics agents.
+<img src="./assets/hero.svg" width="100%" alt="Harnoor Singh Khalsa: Applied ML, real-time systems and AI-assisted engineering. Computer Engineering at Thapar Institute of Engineering and Technology." />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harnoor--singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harnoor1699/)
-[![Email](https://img.shields.io/badge/Email-sharnoor998@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sharnoor998@gmail.com)
+<br />
 
+<table>
+<tr>
+<td valign="top" width="50%"><img src="./assets/portrait.svg" width="100%" alt="ASCII-art portrait of Harnoor typing itself out row by row" /></td>
+<td valign="top" width="50%"><img src="./assets/neofetch.svg" width="100%" alt="neofetch-style summary: 4th-year Computer Engineering student at Thapar (TIET), Patiala. Focus on real-time ML systems, model efficiency and spec-driven LLM pair-programming. Stack: PyTorch, scikit-learn, LightGBM, Pandas, NumPy, SQL, FastAPI, Flask, Streamlit, Kafka, Redis. Live GitHub stats refreshed daily." /></td>
+</tr>
+</table>
+
+<h3><code>harnoor@tiet ~ $ ls ~/projects</code></h3>
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/Harnoor001/Realtime-Delivery-ETA"><img src="./assets/projects/Realtime-Delivery-ETA.svg" width="100%" alt="Realtime-Delivery-ETA: streaming ETA prediction with Kafka, Redis, quantile LightGBM and FastAPI" /></a></td>
+<td width="50%"><a href="https://github.com/Harnoor001/Self-Pruning-Network"><img src="./assets/projects/Self-Pruning-Network.svg" width="100%" alt="Self-Pruning-Network: PyTorch CIFAR-10 network with learned structured pruning, 67% fewer parameters and 8x faster inference" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Harnoor001/stock-market-trend-analysis"><img src="./assets/projects/stock-market-trend-analysis.svg" width="100%" alt="stock-market-trend-analysis: returns, risk and trend analysis of five tech stocks against SPY with a Streamlit dashboard" /></a></td>
+<td width="50%"><a href="https://github.com/Harnoor001/TOPSIS-Text-Summarization-Model-Selection-A5"><img src="./assets/projects/TOPSIS-Text-Summarization-Model-Selection-A5.svg" width="100%" alt="TOPSIS summarizer selection: ranking BART, T5, PEGASUS, DistilBART and LongT5 with multi-criteria decision making" /></a></td>
+</tr>
+</table>
+
+<h3><code>harnoor@tiet ~ $ git log --since="1 year ago"</code></h3>
+
+<img src="./assets/contributions.svg" width="100%" alt="Harnoor's GitHub contribution graph for the last 12 months, refreshed daily" />
+
+<h3><code>harnoor@tiet ~ $ cat contact.txt</code></h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harnoor_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harnoor1699/)
+[![Email](https://img.shields.io/badge/Email-sharnoor998@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharnoor998@gmail.com)
 
 </div>
 
----
+<details>
+<summary><b>About me, in plain text</b></summary>
+<br />
 
-## About
+Fourth-year Computer Engineering student at Thapar Institute of Engineering and Technology, focused on machine learning and applied AI. Most of my work sits at the intersection of structured ML pipelines (feature engineering, ensembling, calibration) and AI-assisted software engineering, where I treat large language models as build partners under a disciplined, spec-driven process rather than ad hoc prompting.
 
-Fourth-year Computer Engineering student focused on machine learning and applied AI. Most of my work sits at the intersection of structured ML pipelines — feature engineering, ensembling, calibration — and AI-assisted software engineering, where I treat large language models as build partners under a disciplined, spec-driven process rather than ad hoc prompting.
+Currently building **[Realtime-Delivery-ETA](https://github.com/Harnoor001/Realtime-Delivery-ETA)** in public: a streaming ETA service for food and quick-commerce delivery.
 
+</details>
 
-## Featured Projects
-
-**Applied ML & Competitions**
-
-| Project | Description |
-|---|---|
-| **Self Pruning Neural Network** | PyTorch-based CIFAR-10 MLP exploring learnable neuron/connection importance, binary masks, hard pruning, fine-tuning, sparsity, efficiency benchmarking, and learned-vs-random pruning ablations. |
-| **Stock Market Trend Analysis** | End-to-end Python project for historical stock analysis covering returns, risk, volatility, moving averages, correlations, SPY benchmarking, and an interactive Streamlit dashboard. |
+<div align="center">
+<sub>Every panel above is a hand-rolled animated SVG generated by <a href="./scripts">./scripts</a>; the live ones refresh daily via GitHub Actions.</sub>
+</div>
