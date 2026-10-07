@@ -9,7 +9,6 @@ Run everything from the repo root.
 | Panel | Script | Refresh |
 |---|---|---|
 | `assets/hero.svg` | `render_hero.py` | by hand, when the tagline changes |
-| `assets/portrait.svg` | `make_portrait.py [photo] [out]` | by hand, when the photo changes (needs `pillow numpy`) |
 | `assets/projects/*.svg` | `render_projects.py` (edit `PROJECTS`) | by hand, when featured projects change |
 | `assets/neofetch.svg` | `render_neofetch.py` (edit `PROFILE` / `STACK`) | daily, via Actions |
 | `assets/contributions.svg` | `render_heatmap.py` | daily, via Actions |

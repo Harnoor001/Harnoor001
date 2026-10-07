@@ -46,4 +46,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh profile panels [skip ci]"
+          # credit the bot, not the profile owner, so these daily commits
+          # never count toward the contribution graph
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
           file_pattern: "data/github.json assets/neofetch.svg assets/contributions.svg"

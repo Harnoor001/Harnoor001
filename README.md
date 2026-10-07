@@ -1,19 +1,14 @@
 <div align="center">
 
 <!-- Every panel is a self-contained animated SVG built by ./scripts.
-     hero / projects / portrait: generated locally when the content changes.
+     hero / projects: generated locally when the content changes.
      neofetch / contributions: regenerated daily by .github/workflows/refresh-profile.yml -->
 
 <img src="./assets/hero.svg" width="100%" alt="Harnoor Singh Khalsa: Applied ML, real-time systems and AI-assisted engineering. Computer Engineering at Thapar Institute of Engineering and Technology." />
 
 <br />
 
-<table>
-<tr>
-<td valign="top" width="50%"><img src="./assets/portrait.svg" width="100%" alt="ASCII-art portrait of Harnoor typing itself out row by row" /></td>
-<td valign="top" width="50%"><img src="./assets/neofetch.svg" width="100%" alt="neofetch-style summary: 4th-year Computer Engineering student at Thapar (TIET), Patiala. Focus on real-time ML systems, model efficiency and spec-driven LLM pair-programming. Stack: PyTorch, scikit-learn, LightGBM, Pandas, NumPy, SQL, FastAPI, Flask, Streamlit, Kafka, Redis. Live GitHub stats refreshed daily." /></td>
-</tr>
-</table>
+<img src="./assets/neofetch.svg" width="100%" alt="neofetch-style summary: 4th-year Computer Engineering student at Thapar (TIET), Patiala. Focus on real-time ML systems, model efficiency and spec-driven LLM pair-programming. Stack: PyTorch, scikit-learn, LightGBM, Pandas, NumPy, SQL, Plotly, FastAPI, Flask, Streamlit, Kafka, Redis. Live GitHub stats refreshed daily." />
 
 <h3><code>harnoor@tiet ~ $ ls ~/projects</code></h3>
 
