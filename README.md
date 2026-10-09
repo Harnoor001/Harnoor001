@@ -10,7 +10,7 @@
 
 <img src="./assets/neofetch.svg" width="100%" alt="neofetch-style summary: 4th-year Computer Engineering student at Thapar (TIET), Patiala. Focus on real-time ML systems, model efficiency and spec-driven LLM pair-programming. Stack: PyTorch, scikit-learn, LightGBM, Pandas, NumPy, SQL, Plotly, FastAPI, Flask, Streamlit, Kafka, Redis. Live GitHub stats refreshed daily." />
 
-<h3><code>harnoor@tiet ~ $ ls ~/projects</code></h3>
+<h3><code>Harnoor Singh Khalsa ~ $ ls ~/projects</code></h3>
 
 <table>
 <tr>
