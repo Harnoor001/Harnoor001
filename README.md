@@ -23,11 +23,11 @@
 </tr>
 </table>
 
-<h3><code>harnoor@tiet ~ $ git log --since="1 year ago"</code></h3>
+<h3><code>harnoor ~ $ git log --since="1 year ago"</code></h3>
 
 <img src="./assets/contributions.svg" width="100%" alt="Harnoor's GitHub contribution graph for the last 12 months, refreshed daily" />
 
-<h3><code>harnoor@tiet ~ $ cat contact.txt</code></h3>
+<h3><code>harnoor ~ $ cat contact.txt</code></h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harnoor_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harnoor1699/)
 [![Email](https://img.shields.io/badge/Email-sharnoor998@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharnoor998@gmail.com)
