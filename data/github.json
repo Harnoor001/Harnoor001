@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "total": 344,
  "active_days": 41,
- "current_streak": 3,
+ "current_streak": 0,
  "longest_streak": 4,
  "best_day": {
   "date": "2026-10-07",
@@ -1853,6 +1853,11 @@
   },
   {
    "date": "2026-11-19",
+   "level": 0,
+   "count": 0
+  },
+  {
+   "date": "2026-11-20",
    "level": 0,
    "count": 0
   }
